@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListaDelete</string>
+    <!--titulos del menu-->
+
+    <string name="action_settings">Configuraciones</string>
+    <string name="delete">Eliminacion</string>
+    <!--Pegunta Alerta -->
+    <string name="pregunta">¿Estas Seguro de Eliminar el Registro?</string>
+
+</resources>
